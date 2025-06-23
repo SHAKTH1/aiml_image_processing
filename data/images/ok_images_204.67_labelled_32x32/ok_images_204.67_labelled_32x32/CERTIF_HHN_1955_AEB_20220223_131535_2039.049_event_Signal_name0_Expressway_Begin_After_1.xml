@@ -1,0 +1,32 @@
+<annotation>
+	<folder>ok_images_204.67</folder>
+	<filename>CERTIF_HHN_1955_AEB_20220223_131535_2039.049_event_Signal_name0_Expressway_Begin_After_1.jpg</filename>
+	<path>C:\Users\z041197\OneDrive - Alliance\GT_Labelling_CV\ok_images_204.67\CERTIF_HHN_1955_AEB_20220223_131535_2039.049_event_Signal_name0_Expressway_Begin_After_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<Location>
+		<type>HighWay</type>
+	</Location>
+	<Environment>
+		<type>Sunny</type>
+	</Environment>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Expressway_Begin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>139</ymin>
+			<xmax>1046</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

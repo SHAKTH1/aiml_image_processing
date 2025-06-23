@@ -1,0 +1,32 @@
+<annotation>
+	<folder>output_ok_cases_204.67</folder>
+	<filename>CERTIF_HHN_1955_AEB_20220302_163645_3456.741_event_Signal_name1_Motorway_Begin_Before_1.jpg</filename>
+	<path>C:\Users\z040320\Downloads\204.67\output_ok_cases_204.67\CERTIF_HHN_1955_AEB_20220302_163645_3456.741_event_Signal_name1_Motorway_Begin_Before_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<Location>
+		<type>Country</type>
+	</Location>
+	<Environment>
+		<type>Sunny</type>
+	</Environment>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Motorway_Begin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>949</xmin>
+			<ymin>185</ymin>
+			<xmax>996</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>
